@@ -1,0 +1,27 @@
+.title {
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #f77945;
+}
+.directions {
+  color:  #a48034;
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
+}
+
+.top {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.scorecard {
+  color: #44271d;
+  text-align: center;
+}
+
+.correct { 
+  color: #f06e62;
+  text-align: center;
+}
